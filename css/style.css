@@ -161,9 +161,11 @@ body {
 }
 /* END PARALAX SECTION */
 
-
-
-
+/* FOOTER */
+#main-footer {
+    background: #121212;
+}
+/* END FOOTER */
 
 /* MEDIA QUERIES */
 
